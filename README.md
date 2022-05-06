@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jchuass(joycelyn) 
-- 👀 I’m interested in Google Cloud Platform Architecturing and its best practices
-- 🌱 I’m currently taking Google Cloud Architecture Course
+- 👀 I’m interested in AWS Solutions Architecting/Google Cloud Platform Architecturing/Azure and its best practices
 - 💞️ I’m looking to collaborate on how to be a better architect 
 - 📫 How to reach me... Joycelynsusiah@gmail.com 
 
