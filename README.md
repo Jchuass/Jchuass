@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jchuass(joycelyn) 
-- 👀 I’m interested in AWS Solutions Architecting/Google Cloud Platform Architecturing/Azure and its best practices
-- 💞️ I’m looking to collaborate on how to be a better architect 
 - 📫 How to reach me... Joycelynsusiah@gmail.com 
 
 <!---
